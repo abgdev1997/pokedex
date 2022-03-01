@@ -1,0 +1,15 @@
+.pokemon-card{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.pokemon-card:hover{
+    background-color: bisque;
+}

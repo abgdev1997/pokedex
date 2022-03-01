@@ -1,0 +1,11 @@
+.container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image{
+    border: 1px solid black;
+    background-color: rgb(212, 199, 182);
+    border-radius: 10px;
+}

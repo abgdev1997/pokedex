@@ -1,0 +1,32 @@
+.container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image{
+    border: 1px solid gray;
+    background-color: rgb(212, 199, 182);
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    padding: 50px
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.type{
+    margin: 2px;
+    background-color: gray;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 1px;
+}

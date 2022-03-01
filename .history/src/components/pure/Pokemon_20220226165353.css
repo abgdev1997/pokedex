@@ -1,0 +1,26 @@
+.pokemon-card{
+    background-color: rgb(212, 199, 182);
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: #3B3C3D;
+}
+
+.pokemon-body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+.pokemon-id{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.pokemon-card:hover{
+    background-color: rgb(204, 168, 123);
+}
