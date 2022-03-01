@@ -1,0 +1,27 @@
+.home{
+    height:885px;
+    background-image: url(../../static/pokemon-5151118.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.box-home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.get-started{
+    background-color: rgb(212, 199, 182);
+    width: 200px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+

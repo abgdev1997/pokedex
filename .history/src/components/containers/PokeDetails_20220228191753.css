@@ -1,0 +1,21 @@
+.container{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image{
+    border: 1px solid black;
+    background-color: rgb(212, 199, 182);
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    padding: 50px
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+}
